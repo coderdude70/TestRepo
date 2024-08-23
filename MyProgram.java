@@ -1,6 +1,7 @@
+//Created by Alex Kolev on Aug 27
+
 import java.util.Scanner;
 
-package TestRepo;
 public class MyProgram {
 
     public static void main (String args[]) {
